@@ -1,2 +1,2 @@
-# AI-Based-Fracture-Detection-of-Bone-Utilizing-The-RandomForestClassifier-Model
-AI-Based Fracture Detection of Bone: Utilizing The RandomForestClassifier Model
+# A Novel Framework for Diagnosis of Bone Osteoporosis Using X-ray Images: A Deep Learning Approach
+A Novel Framework for Diagnosis of Bone Osteoporosis Using X-ray Images: A Deep Learning Approach
